@@ -1,6 +1,4 @@
-# Semantic-Segmentation-of-Satellite-Imagery
-
-##Installation Instructions
+# Installation Instructions
 
 1. To install the dependencies, I looked at the beginning of both 228_training_aerial_imagery.py and simple_multi_unet_model.py to see what dependencies were required. Within colab, I used pip install to install each dependency. I ended up installing matplotlib, patchify, Pillow, segmentation_models, keras-metric, and sklearn. The rest, such as numpy, tensorflow, and pytorch, did not need to be installed since colab comes with them.
 
