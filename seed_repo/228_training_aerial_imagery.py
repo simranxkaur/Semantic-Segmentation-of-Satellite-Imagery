@@ -51,7 +51,7 @@ patch_size = 256
 #divide all images into patches of 256x256x3. 
 image_dataset = []  
 for path, subdirs, files in os.walk(root_directory):
-    #print(path)  
+    print(path)  
     dirname = path.split(os.path.sep)[-1]
     if dirname == 'images':   #Find all 'images' directories
         images = os.listdir(path)  #List of all image names in this subdirectory
