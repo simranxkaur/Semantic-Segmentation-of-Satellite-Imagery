@@ -42,9 +42,22 @@ Figure 4 shows the cross-model distillation training scheme. The diagram demonst
 
 **10 Segmented Images from the Validation Set**
 
+![ex1](https://user-images.githubusercontent.com/98201516/205533110-9bcced46-adf0-4fb3-be02-fddcbc12e640.png)
+![ex2](https://user-images.githubusercontent.com/98201516/205533158-e416ac6c-6f40-45b1-b03b-958e4c09baec.png)
+![ex3](https://user-images.githubusercontent.com/98201516/205533168-c38c9363-01f9-4956-afcb-5b5d8856f584.png)
+![ex4](https://user-images.githubusercontent.com/98201516/205533189-0c8dc530-a442-4d01-8c5f-243c5b4768b2.png)
+![ex5](https://user-images.githubusercontent.com/98201516/205533204-9d277f77-1691-47e9-9a3f-65e458fb4f40.png)
+![ex6](https://user-images.githubusercontent.com/98201516/205533217-d1badb70-6e17-41c4-be3a-0a4c3ab2b03b.png)
+![ex7](https://user-images.githubusercontent.com/98201516/205533230-c2fddb99-881b-47fb-9bb0-93b2fa1d3598.png)
+![ex8](https://user-images.githubusercontent.com/98201516/205533243-99b01fab-bd9a-4a32-8a91-d95f28e23cbc.png)
+![ex9](https://user-images.githubusercontent.com/98201516/205533251-07b05d7b-bda3-4943-95ad-be24b0e8e4c7.png)
+![ex10](https://user-images.githubusercontent.com/98201516/205533261-73a4be8b-ce31-45ca-b46d-16aedd84af93.png)
 
 **Training and Validation Loss vs Epochs**
 
+![loss](https://user-images.githubusercontent.com/98201516/205533329-4f8569ad-675a-48de-956e-5ec53e8cf177.png)
 
 **Precision and Recall Values**
+
+![precision-recall](https://user-images.githubusercontent.com/98201516/205533346-bfe819d1-b77e-4fe3-9516-10e5fc799e52.png)
 
